@@ -34,3 +34,5 @@ docker-compose build --no-cache
 ```bash
 docker-compose up
 ```
+
+Open the http://localhost:8000/docs
